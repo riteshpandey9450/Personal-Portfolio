@@ -12,9 +12,9 @@ typewriter
 	.typeString("<strong>Web Developer</strong>")
 	.pauseFor(500)
 	.deleteAll()
-	.typeString("<strong>Traveller</strong>")
-	.pauseFor(500)
-	.deleteAll()
+	// .typeString("<strong>Traveller</strong>")
+	// .pauseFor(500)
+	// .deleteAll()
 	.pauseFor(500)
 	.start();
 
